@@ -1,4 +1,4 @@
-//halo
+//halo tscgü
 #include "gui.h"
 #include <QApplication>
 
